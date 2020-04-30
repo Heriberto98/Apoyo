@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include <stdlib.h>
 
-using namespace std;
-
 int F1(int x){
 	int resultado = ((2*x-1) * (2*x-1));
 	
